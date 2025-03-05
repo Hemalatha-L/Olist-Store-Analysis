@@ -5,7 +5,8 @@
 
 The Olist Store Analysis project aims to analyze customer purchasing patterns and payment statistics on an E-commerce platform, Olist. This project covers several key performance indicators (KPIs) such as weekday vs weekend sales, payment statistics, delivery time, and customer behavior. 
 
-### Tools Used: The Analysis was done using Excel, Power BI, Tableau and SQL
+### Tools Used
+The Analysis was done using Excel, Power BI, Tableau and SQL
 
 #### Datasets Details
 
